@@ -8,7 +8,7 @@ import tempfile
 import numpy as np
 
 # Configuration de l'API OpenAI
-client = openai.OpenAI(api_key='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')
+client = openai.OpenAI(api_key='')
 
 # Fonction pour analyser le tableau avec GPT
 def analyze_table(prompt):
