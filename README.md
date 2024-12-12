@@ -8,3 +8,6 @@ Data Import: Easily upload a spreadsheet with details about your current fleet.
 Instant Analysis: Receive accurate and detailed results in just seconds.
 
 Advanced Analysis: Harness the power of artificial intelligence for comprehensive and contextual evaluations to support informed decision-making.
+
+![image](https://github.com/user-attachments/assets/e741650e-ab35-420b-8c8a-f661f54c9aa1)
+
